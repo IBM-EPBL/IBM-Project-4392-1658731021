@@ -1,6 +1,8 @@
 # IBM-Project-4392-1658731021
 # Smart Fashion Recommender Application
 
+Batch Name:B7-1A3E
+
 Team ID : PNT2022TMID48162
 
 Team Size : 5
