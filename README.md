@@ -2,7 +2,7 @@
 # Smart Fashion Recommender Application
 # Domain:Cloud App Development
 
-Batch Name:B7-1A3E
+Batch Name : B7-1A3E
 
 Team ID : PNT2022TMID48162
 
