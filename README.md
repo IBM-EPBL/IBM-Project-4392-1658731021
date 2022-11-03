@@ -11,10 +11,10 @@ Team Size : 5
 
 Team Leader : Rilwana Parveen J
 
-Team member : Parameshwari S
+Team member 1 : Parameshwari S
 
-Team member : Sandhiya B
+Team member 2 : Sandhiya B
 
-Team member : Saranya C
+Team member 3 : Saranya C
 
-Team member : Suriya Jothi S
+Team member 4 : Suriya Jothi S
