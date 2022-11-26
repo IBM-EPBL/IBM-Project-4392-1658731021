@@ -3,6 +3,8 @@
 # Smart Fashion Recommender Application
 # Domain:Cloud App Development
 
+#Demonstration Link: https://drive.google.com/file/d/1XEitd8gfvSnKRlS-MR9MqcCK9iC5KgN3/view?usp=share_link
+
 Batch Name : B7-1A3E
 
 Team ID : PNT2022TMID48162
